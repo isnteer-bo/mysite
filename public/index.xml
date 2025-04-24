@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mein Hugo-Blog</title>
-    <link>http://localhost:1313/meinblog/</link>
+    <link>https://github.com/isnteer-bo/mysite/</link>
     <description>Recent content on Mein Hugo-Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/meinblog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/isnteer-bo/mysite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Willkommen</title>
-      <link>http://localhost:1313/meinblog/about/</link>
+      <link>https://github.com/isnteer-bo/mysite/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/meinblog/about/</guid>
+      <guid>https://github.com/isnteer-bo/mysite/about/</guid>
       <description>&lt;h1 id=&#34;guten-tag&#34;&gt;Guten Tag&lt;/h1&gt;&#xA;&lt;p&gt;Ich möchte hier etwas publizieren&lt;/p&gt;</description>
     </item>
   </channel>

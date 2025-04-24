@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/meinblog/categories/</loc>
+    <loc>https://github.com/isnteer-bo/mysite/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/meinblog/</loc>
+    <loc>https://github.com/isnteer-bo/mysite/</loc>
   </url><url>
-    <loc>http://localhost:1313/meinblog/tags/</loc>
+    <loc>https://github.com/isnteer-bo/mysite/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/meinblog/about/</loc>
+    <loc>https://github.com/isnteer-bo/mysite/about/</loc>
   </url>
 </urlset>
