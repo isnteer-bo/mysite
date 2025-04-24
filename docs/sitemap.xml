@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://github.com/isnteer-bo/mysite/categories/</loc>
+    <loc>https://isnteer-bo.github.io/isnteer-bo/categories/</loc>
   </url><url>
-    <loc>https://github.com/isnteer-bo/mysite/</loc>
+    <loc>https://isnteer-bo.github.io/isnteer-bo/</loc>
   </url><url>
-    <loc>https://github.com/isnteer-bo/mysite/tags/</loc>
+    <loc>https://isnteer-bo.github.io/isnteer-bo/tags/</loc>
   </url><url>
-    <loc>https://github.com/isnteer-bo/mysite/about/</loc>
+    <loc>https://isnteer-bo.github.io/isnteer-bo/about/</loc>
   </url>
 </urlset>
